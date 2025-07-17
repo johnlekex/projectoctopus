@@ -20,6 +20,6 @@ When you start the lab, the environment will contain the resources that are show
 
 ![alt text](./images/image.png)
 
-![alt text](./images/image.png)
+![alt text](./images/image2.png)
 
-![alt text](./images/image.png)
+![alt text](./images/image3.png)
